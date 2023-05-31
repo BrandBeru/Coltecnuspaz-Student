@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Coltecnuspaz Estudiantes</string>
+    <string name="prompt_name">User name:</string>
+    <string name="prompt_pass">Password:</string>
+    <string name="prompt_host">Host address:</string>
+    <string name="prompt_port">Port:</string>
+    <string name="login_title">Consultar tareas</string>
+    <string name="login_connect">Consultar tareas</string>
+    <string name="title_activity_client">ClientActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Visor de archivos</string>
+    <string name="second_fragment_label">Terminal</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="make_directory">Crear directorio</string>
+    <string name="delete_file">Eliminar</string>
+    <string name="hiden_file">Show hiden files</string>
+    <string name="close_session">Cerrar Session</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="limit_back">Minimo</string>
+    <string name="limit_forward">Maximo</string>
+
+    <string name="user"></string>
+    <string name="host"></string>
+    <string name="port"></string>
+    <string name="pass"></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    
+    <string-array name="teachers">
+        <item>Edward</item>
+        <item>Nubia</item>
+        <item>Jesus</item>
+        <item>Fernando</item>
+        <item>Fidel</item>
+        <item>beru</item>
+    </string-array>
+    <string-array name="grades">
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+    </string-array>
+</resources>
